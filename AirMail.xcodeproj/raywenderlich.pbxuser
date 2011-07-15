@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Cocos2DSimpleGame */ = {
+		activeExec = 0;
+		executables = (
+			E11EC226129A2CDB008B1CA2 /* Cocos2DSimpleGame */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* Cocos2DSimpleGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 2145}}";
+			sepNavSelRange = "{3401, 0}";
+			sepNavVisRange = "{3245, 379}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* Cocos2DSimpleGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 273}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E11EC226129A2CDB008B1CA2 /* Cocos2DSimpleGame */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Cocos2DSimpleGame */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Cocos2DSimpleGame */,
+		);
+		codeSenseManager = E11EC238129A2D0E008B1CA2 /* Code sense */;
+		executables = (
+			E11EC226129A2CDB008B1CA2 /* Cocos2DSimpleGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					404,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312093915;
+			PBXWorkspaceStateSaveDate = 312093915;
+		};
+		perUserProjectItems = {
+			E11EC24E129A2D7B008B1CA2 /* PBXTextBookmark */ = E11EC24E129A2D7B008B1CA2 /* PBXTextBookmark */;
+			E11EC24F129A2D7B008B1CA2 /* PBXTextBookmark */ = E11EC24F129A2D7B008B1CA2 /* PBXTextBookmark */;
+			E11EC250129A2D7B008B1CA2 /* PBXTextBookmark */ = E11EC250129A2D7B008B1CA2 /* PBXTextBookmark */;
+			E11EC26F129A2DE5008B1CA2 /* PBXTextBookmark */ = E11EC26F129A2DE5008B1CA2 /* PBXTextBookmark */;
+			E11EC270129A2DE5008B1CA2 /* PBXBookmark */ = E11EC270129A2DE5008B1CA2 /* PBXBookmark */;
+			E11EC271129A2DE5008B1CA2 /* PlistBookmark */ = E11EC271129A2DE5008B1CA2 /* PlistBookmark */;
+			E11EC272129A2DE5008B1CA2 /* PBXTextBookmark */ = E11EC272129A2DE5008B1CA2 /* PBXTextBookmark */;
+			E11EC273129A2DE5008B1CA2 /* PBXTextBookmark */ = E11EC273129A2DE5008B1CA2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E11EC237129A2D0E008B1CA2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	E11EC226129A2CDB008B1CA2 /* Cocos2DSimpleGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Cocos2DSimpleGame;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E11EC237129A2D0E008B1CA2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E11EC238129A2D0E008B1CA2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E11EC23A129A2D2E008B1CA2 /* HelloWorldScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 312}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{144, 241}";
+		};
+	};
+	E11EC23C129A2D2E008B1CA2 /* GameOverScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 351}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	E11EC23D129A2D2E008B1CA2 /* GameOverScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 806}}";
+			sepNavSelRange = "{633, 0}";
+			sepNavVisRange = "{443, 457}";
+		};
+	};
+	E11EC24E129A2D7B008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E11EC23C129A2D2E008B1CA2 /* GameOverScene.h */;
+		name = "GameOverScene.h: 15";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	E11EC24F129A2D7B008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E11EC23D129A2D2E008B1CA2 /* GameOverScene.m */;
+		name = "GameOverScene.m: 39";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 443;
+	};
+	E11EC250129A2D7B008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E11EC23A129A2D2E008B1CA2 /* HelloWorldScene.h */;
+		name = "HelloWorldScene.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 144;
+	};
+	E11EC26F129A2DE5008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* Cocos2DSimpleGameAppDelegate.m */;
+		name = "Cocos2DSimpleGameAppDelegate.m: 114";
+		rLen = 0;
+		rLoc = 3409;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 3141;
+	};
+	E11EC270129A2DE5008B1CA2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E02BB4FF126CA50F006E46A2 /* Icon-Small@2x.png */;
+	};
+	E11EC271129A2DE5008B1CA2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 50F414EF1069373D002A0D5E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/raywenderlich/Projects/Learning Projects/Cocos2DSimpleGame/Resources/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E11EC272129A2DE5008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* Cocos2DSimpleGameAppDelegate.h */;
+		name = "Cocos2DSimpleGameAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	E11EC273129A2DE5008B1CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* Cocos2DSimpleGameAppDelegate.h */;
+		name = "Cocos2DSimpleGameAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+}

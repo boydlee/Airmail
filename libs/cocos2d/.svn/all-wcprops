@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d
+END
+CCActionInstant.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionInstant.m
+END
+CCParticleSystemQuad.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystemQuad.h
+END
+CCLabelBMFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelBMFont.h
+END
+CCGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCGrid.h
+END
+CCTextureAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTextureAtlas.h
+END
+cocos2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/cocos2d.h
+END
+CCParticleSystemPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystemPoint.m
+END
+CCCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCCamera.h
+END
+CCParticleSystemQuad.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystemQuad.m
+END
+CCTMXTiledMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXTiledMap.h
+END
+CCLabelBMFont.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelBMFont.m
+END
+CCGrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCGrid.m
+END
+CCTextureAtlas.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTextureAtlas.m
+END
+CCTransition.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransition.h
+END
+cocos2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/cocos2d.m
+END
+CCLabelTTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelTTF.h
+END
+CCCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCCamera.m
+END
+CCScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCScene.h
+END
+CCTMXTiledMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXTiledMap.m
+END
+CCSpriteSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteSheet.h
+END
+CCTransition.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransition.m
+END
+CCLabelTTF.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelTTF.m
+END
+CCScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCScene.m
+END
+CCAnimationCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAnimationCache.h
+END
+CCSpriteSheet.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteSheet.m
+END
+ccTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/ccTypes.h
+END
+CCActionTiledGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionTiledGrid.h
+END
+ccConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/ccConfig.h
+END
+CCTMXXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXXMLParser.h
+END
+CCDrawingPrimitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCDrawingPrimitives.h
+END
+CCAnimationCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAnimationCache.m
+END
+CCActionTiledGrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionTiledGrid.m
+END
+CCTMXXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXXMLParser.m
+END
+CCDrawingPrimitives.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCDrawingPrimitives.m
+END
+CCTMXObjectGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXObjectGroup.h
+END
+CCScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCScheduler.h
+END
+CCSpriteBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteBatchNode.h
+END
+CCActionTween.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionTween.h
+END
+CCTileMapAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTileMapAtlas.h
+END
+CCTMXObjectGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXObjectGroup.m
+END
+CCActionInterval.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionInterval.h
+END
+CCActionGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionGrid.h
+END
+CCScheduler.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCScheduler.m
+END
+CCSpriteBatchNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteBatchNode.m
+END
+CCTextureCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTextureCache.h
+END
+CCActionTween.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionTween.m
+END
+CCTileMapAtlas.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTileMapAtlas.m
+END
+CCActionCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionCamera.h
+END
+CCActionInterval.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionInterval.m
+END
+CCActionGrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionGrid.m
+END
+CCTexturePVR.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTexturePVR.h
+END
+CCTextureCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTextureCache.m
+END
+CCActionCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionCamera.m
+END
+CCTexturePVR.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTexturePVR.m
+END
+CCParticleExamples.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleExamples.h
+END
+CCSpriteFrameCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteFrameCache.h
+END
+CCTMXLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXLayer.h
+END
+CCParticleExamples.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleExamples.m
+END
+CCActionGrid3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionGrid3D.h
+END
+CCActionPageTurn3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionPageTurn3D.h
+END
+CCSpriteFrameCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteFrameCache.m
+END
+CCTMXLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTMXLayer.m
+END
+CCActionGrid3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionGrid3D.m
+END
+CCActionPageTurn3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionPageTurn3D.m
+END
+CCSpriteFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteFrame.h
+END
+CCMenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMenuItem.h
+END
+ccMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/ccMacros.h
+END
+CCNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCNode.h
+END
+CCSpriteFrame.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSpriteFrame.m
+END
+CCTexture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTexture2D.h
+END
+CCBlockSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCBlockSupport.h
+END
+CCMenuItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMenuItem.m
+END
+CCNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCNode.m
+END
+CCTexture2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTexture2D.m
+END
+CCBlockSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCBlockSupport.m
+END
+CCRenderTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCRenderTexture.h
+END
+CCTransitionPageTurn.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransitionPageTurn.h
+END
+CCActionProgressTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionProgressTimer.h
+END
+CCGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCGrabber.h
+END
+CCRenderTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCRenderTexture.m
+END
+CCTransitionPageTurn.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransitionPageTurn.m
+END
+CCSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSprite.h
+END
+CCActionProgressTimer.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionProgressTimer.m
+END
+CCGrabber.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCGrabber.m
+END
+CCParallaxNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParallaxNode.h
+END
+CCAtlasNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAtlasNode.h
+END
+CCActionEase.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionEase.h
+END
+CCSprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCSprite.m
+END
+CCAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAction.h
+END
+CCMotionStreak.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMotionStreak.h
+END
+CCAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAnimation.h
+END
+CCAtlasNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAtlasNode.m
+END
+CCParallaxNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParallaxNode.m
+END
+CCActionEase.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionEase.m
+END
+CCAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAction.m
+END
+CCMotionStreak.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMotionStreak.m
+END
+CCAnimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCAnimation.m
+END
+CCProtocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCProtocols.h
+END
+CCMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMenu.h
+END
+CCLabelAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelAtlas.h
+END
+CCProgressTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCProgressTimer.h
+END
+CCConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCConfiguration.h
+END
+CCTransitionRadial.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransitionRadial.h
+END
+CCActionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionManager.h
+END
+CCParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystem.h
+END
+CCMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCMenu.m
+END
+CCLabelAtlas.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLabelAtlas.m
+END
+CCCompatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCCompatibility.h
+END
+CCProgressTimer.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCProgressTimer.m
+END
+CCDirector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCDirector.h
+END
+CCRibbon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCRibbon.h
+END
+CCLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLayer.h
+END
+CCConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCConfiguration.m
+END
+CCTransitionRadial.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCTransitionRadial.m
+END
+CCActionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionManager.m
+END
+CCParticleSystem.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystem.m
+END
+CCCompatibility.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCCompatibility.m
+END
+CCActionInstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCActionInstant.h
+END
+CCDirector.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCDirector.m
+END
+CCRibbon.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCRibbon.m
+END
+CCLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCLayer.m
+END
+CCParticleSystemPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/CCParticleSystemPoint.h
+END

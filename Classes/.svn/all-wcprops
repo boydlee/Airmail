@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes
+END
+LevelSelectScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/LevelSelectScene.m
+END
+DialogLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/DialogLayer.h
+END
+Cocos2DSimpleGameAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/Cocos2DSimpleGameAppDelegate.h
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GameConfig.h
+END
+DialogLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/DialogLayer.m
+END
+Cocos2DSimpleGameAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/Cocos2DSimpleGameAppDelegate.m
+END
+HighScoresScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/HighScoresScene.h
+END
+GameMenuScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GameMenuScene.h
+END
+GamePlayScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GamePlayScene.h
+END
+HighScoresScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/HighScoresScene.m
+END
+GameMenuScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GameMenuScene.m
+END
+InstructionsScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/InstructionsScene.h
+END
+GamePlayScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GamePlayScene.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/RootViewController.h
+END
+GameOverScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GameOverScene.h
+END
+LevelSelectScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/LevelSelectScene.h
+END
+InstructionsScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/InstructionsScene.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/RootViewController.m
+END
+GameOverScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/Classes/GameOverScene.m
+END

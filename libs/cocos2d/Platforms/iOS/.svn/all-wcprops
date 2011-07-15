@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS
+END
+CCTouchHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCTouchHandler.m
+END
+CCDirectorIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/ESRenderer.h
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/ES1Renderer.h
+END
+CCDirectorIOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/glu.c
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/EAGLView.h
+END
+CCTouchDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/ES1Renderer.m
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/glu.h
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/iOS/EAGLView.m
+END

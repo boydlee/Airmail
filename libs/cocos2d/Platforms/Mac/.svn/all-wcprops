@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac
+END
+CCEventDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+END
+MacGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/MacGLView.h
+END
+CCDirectorMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+END
+CCEventDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/CCEventDispatcher.m
+END
+MacGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/MacGLView.m
+END
+CCDirectorMac.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lemonadestand_solutions/!svn/ver/2/Games/AirMail/libs/cocos2d/Platforms/Mac/CCDirectorMac.m
+END
